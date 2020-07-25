@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on LMOP Extravaganza</title>
-    <link>https://example.com/</link>
+    <link>https://lmopextravaganza.github.io/</link>
     <description>Recent content in Introduction on LMOP Extravaganza</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lmopextravaganza.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Adventure Thus Far...</title>
-      <link>https://example.com/posts/the_adventure_thus/</link>
+      <link>https://lmopextravaganza.github.io/posts/the_adventure_thus/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/the_adventure_thus/</guid>
-      <description></description>
+      <guid>https://lmopextravaganza.github.io/posts/the_adventure_thus/</guid>
+      <description>ZOMG THERE AREN&amp;rsquo;T ANY WAFFLES HERE WHAT THE FUCK!?!</description>
     </item>
     
     <item>
       <title>About Kal</title>
-      <link>https://example.com/Kal/</link>
+      <link>https://lmopextravaganza.github.io/Kal/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/Kal/</guid>
+      <guid>https://lmopextravaganza.github.io/Kal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NPC Info</title>
-      <link>https://example.com/posts/non_player_characters/</link>
+      <link>https://lmopextravaganza.github.io/posts/non_player_characters/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/non_player_characters/</guid>
+      <guid>https://lmopextravaganza.github.io/posts/non_player_characters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Places in the world</title>
-      <link>https://example.com/posts/places/</link>
+      <link>https://lmopextravaganza.github.io/posts/places/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/places/</guid>
+      <guid>https://lmopextravaganza.github.io/posts/places/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Player Controlled Characters</title>
-      <link>https://example.com/docs/player_characters/</link>
+      <link>https://lmopextravaganza.github.io/docs/player_characters/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/player_characters/</guid>
+      <guid>https://lmopextravaganza.github.io/docs/player_characters/</guid>
       <description>Kaladin (Kal) [PC]#Kal on DNDBeyond
 Stats:#   Max HP AC Inititive Prof B Total/Hit Die Used     25 17/19 +0 2 3/1        Strength Dexterity Constitution Intellect Wisdom Charisma     Modifier +3 0 +1 -1 +1 +4   Score 16 11 12 9 12 18   Saving Throw +3 0 +1 -1 +3 +6    Skills:# Athletics: +5 Insight: +3 Intimidation: +6 Perception: +3 Persuassion: + 6  Background/Story:#Nib [Sidekick]#Stats:#   Max HP AC Inititive Prof B Total/Used Hit Die     18 12 +1 2 3/0        Strength Dexterity Constitution Intellect Wisdom Charisma     Modifier 0 +1 0 +2 +2 +1   Score 10 12 10 15 14 13   Saving Throw +0 +1 +0 +2 +4 +1    Skills:# Arcana: +4 Investigation: +4 Religion: +4  Items Held:# Wand of Eldrich Blast 1/13 Used Wand of Burning Hands Staff of Defense  Spellscasting#Spell Slots# Level 1: 3  Spells: (DC12 / +4 Hit)#  Cantrips:</description>
     </item>
     
     <item>
       <title>Player Controlled Characters</title>
-      <link>https://example.com/posts/player_characters/</link>
+      <link>https://lmopextravaganza.github.io/posts/player_characters/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/player_characters/</guid>
+      <guid>https://lmopextravaganza.github.io/posts/player_characters/</guid>
       <description>Kaladin (Kal) [PC]#Kal on DNDBeyond
 Stats:#   Max HP AC Inititive Prof B Total/Hit Die Used     25 17/19 +0 2 3/1        Strength Dexterity Constitution Intellect Wisdom Charisma     Modifier +3 0 +1 -1 +1 +4   Score 16 11 12 9 12 18   Saving Throw +3 0 +1 -1 +3 +6    Skills:# Athletics: +5 Insight: +3 Intimidation: +6 Perception: +3 Persuassion: + 6  Background/Story:#  Nib [Sidekick]#Stats:#   Max HP AC Inititive Prof B Total/Used Hit Die     18 12 +1 2 3/0        Strength Dexterity Constitution Intellect Wisdom Charisma     Modifier 0 +1 0 +2 +2 +1   Score 10 12 10 15 14 13   Saving Throw +0 +1 +0 +2 +4 +1    Skills:# Arcana: +4 Investigation: +4 Religion: +4  Items Held:# Wand of Eldrich Blast 1/13 Used Wand of Burning Hands Staff of Defense  Spellscasting#Spell Slots# Level 1: 3  Spells: (DC12 / +4 Hit)#  Cantrips:</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/npcs/</link>
+      <link>https://lmopextravaganza.github.io/docs/npcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/npcs/</guid>
+      <guid>https://lmopextravaganza.github.io/docs/npcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/places/</link>
+      <link>https://lmopextravaganza.github.io/docs/places/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/places/</guid>
+      <guid>https://lmopextravaganza.github.io/docs/places/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://example.com/docs/items/</link>
+      <link>https://lmopextravaganza.github.io/docs/items/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/items/</guid>
+      <guid>https://lmopextravaganza.github.io/docs/items/</guid>
       <description>Helm of the Night# Attunement Required: No Currently Held by: Kal Notes: 60 Feet Darkvision  The Horde Sword:# Require Attunement: No Currently Held By: Kal Notes:  Found in the elven undead crypt near Evermist. +2 bonus to attack and damage roles against orcs, half-orcs and orogs.    Platinum Signet Ring# Attunement Required: Yes Currently Held By: Kal School of Magic: Abj/Div Notes:  Found in Redbrand Hideout in the undead crypts.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://example.com/posts/items/</link>
+      <link>https://lmopextravaganza.github.io/posts/items/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/items/</guid>
+      <guid>https://lmopextravaganza.github.io/posts/items/</guid>
       <description>Helm of the Night# Attunement Required: No Currently Held by: Kal Notes: 60 Feet Darkvision  The Horde Sword:# Require Attunement: No Currently Held By: Kal Notes:  Found in the elven undead crypt near Evermist. +2 bonus to attack and damage roles against orcs, half-orcs and orogs.    Platinum Signet Ring# Attunement Required: Yes Currently Held By: Kal School of Magic: Abj/Div Notes:  Found in Redbrand Hideout in the undead crypts.</description>
     </item>
     
