@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LMOP Notes for Zach and Devon</title>
-    <link>https://lmopextravaganza.github.io/tags/</link>
-    <description>Recent content in Tags on LMOP Notes for Zach and Devon</description>
+    <title>Tags on LMOP Extravaganza</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on LMOP Extravaganza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lmopextravaganza.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LMOP</title>
-      <link>https://lmopextravaganza.github.io/tags/lmop/</link>
+      <link>https://example.com/tags/LMOP/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lmopextravaganza.github.io/tags/lmop/</guid>
+      <guid>https://example.com/tags/LMOP/</guid>
       <description></description>
     </item>
     
