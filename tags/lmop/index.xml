@@ -1,42 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>LMOP on LMOP Extravaganza</title>
-    <link>https://lmopextravaganza.github.io/tags/LMOP/</link>
-    <description>Recent content in LMOP on LMOP Extravaganza</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://lmopextravaganza.github.io/tags/LMOP/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Into the Mountain {Rough Draft}</title>
-      <link>https://lmopextravaganza.github.io/posts/the_dwarven_excavation/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmopextravaganza.github.io/posts/the_dwarven_excavation/</guid>
-      <description>Returning to Phandalin# Lionshield Coster.  Vendored goods.   Returning to the Stonehill Inn.  Speak with Sildar and Darren  Darren to be townmaster temporarily Sildar to take over Harbin&amp;rsquo;s house. Tresendar Manor as a Jail. Returned Sildar&amp;rsquo;s Arms and Armor to him.     Gundrin&amp;rsquo;s Story  His brothers and him have discovered the lost mine of phandelver Approximately 15 miles due east of Phandalin.</description>
-    </item>
-    
-    <item>
-      <title>Cragmaw Castle</title>
-      <link>https://lmopextravaganza.github.io/posts/cragmaw_castle/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmopextravaganza.github.io/posts/cragmaw_castle/</guid>
-      <description>Notes From the Last Session:#Sildar tasked Nib, Droop, Siri and Kal to head to the Cragmaw Castle to look for Gundrin Rockseeker, based off of the information that the group was able to gather from the Redbrands and from what Droop was able to offer as well.
-Journey to Cragmaw Castle:#Kal, Nib and Siri went back out to the Tresendar manor to talk with Droop, as they need a guide to the Cragmaw Castle.</description>
-    </item>
-    
-    <item>
-      <title>The Adventure Thus Far...</title>
-      <link>https://lmopextravaganza.github.io/posts/the_adventure_thus/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmopextravaganza.github.io/posts/the_adventure_thus/</guid>
-      <description>Backstory:#Down on his luck and without any prospects in Neverwinter, Kal Windrunner looked up a dwarf by the name of Gundrin Rockseeker for an escort job from Neverwinter to some woodtick down in the south called Phandalin. Gundrin also had hired an old drunk by the name of Pete and a halfling healer named Nib. In addition, a member of the Lord&amp;rsquo;s Alliance, Sildar Hallwinter would ride south with them as well.</description>
-    </item>
-    
-  </channel>
-</rss>
